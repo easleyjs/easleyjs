@@ -1,6 +1,6 @@
 ### YO! 👋🤖
 
-Hi, I'm Josh.. and welcome to my crib/github!
+Hi, I'm Josh.. welcome to my crib/github!
 
 
 - 🔭 **I’m currently working on** ... a few projects to showcase my skills as a developer:
