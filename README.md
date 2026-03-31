@@ -3,9 +3,8 @@
 Hi, I'm Josh.. welcome to my crib/github!
 
 
-- 🔭 **I’m currently working on** ... a few projects to showcase my skills as a developer:
-  - Packmatic - A Storage/Festival/Vacation Packing and Organization Tool (Firebase and React)
-  - josheasley.com - my soon-to-be other home on the net, and home to my blog and non-coding projects.
+- 🔭 **I’m currently working on:**
+- A Spring Boot backend for a clone of the text/BBS game "Legend of the Red Dragon"
  
 - 🌱 **I’m currently learning** ... more CSS/Sass!
 
